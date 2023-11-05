@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamelamdibih&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamelamdibih" /> </p>
 
-- 🔭 I’m currently studying at **MSI Marrakech**
+- 🔭 I’m currently studying at **EMSI Marrakech**
 
 - 🌱 I’m currently learning **AI**
 

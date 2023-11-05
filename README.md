@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LAMDIBIH Ilhame 😄</h1>
-<h3 align="center">I'm a software engineer from Morocco, and I'm passionate about technology and innovative solutions.</h3>
+<h3 align="center">I'm a software engineer from Morocco, I'm passionate about technology and innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamelamdibih&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamelamdibih" /> </p>
 
